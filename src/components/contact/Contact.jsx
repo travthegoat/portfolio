@@ -48,7 +48,7 @@ const Contact = () => {
               <h3 className="contact-card-title">Telegram</h3>
               <span className="contact-card-data">+959884178787</span>
 
-              <a href="" className="contact-button">Write me{" "} <i className="bx bx-right-arrow-alt contact-button-icon"></i></a>
+              <a href="https://t.me/trevthegoat" className="contact-button">Write me{" "} <i className="bx bx-right-arrow-alt contact-button-icon"></i></a>
             </div>
 
             <div className="contact-card">

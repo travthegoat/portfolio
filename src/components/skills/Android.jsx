@@ -12,7 +12,16 @@ const Android = () => {
 
           <div> 
             <h3 className='skills-name'>React Native</h3>
-            <span className="skills-level">Intermidiate</span>
+            <span className="skills-level">Advanced</span>
+          </div>
+        </div>
+
+        <div className="skills-data">
+          <i className="bx bx-badge-check"></i>
+
+          <div> 
+            <h3 className='skills-name'>Flutter</h3>
+            <span className="skills-level">Basic</span>
           </div>
         </div>
       </div>

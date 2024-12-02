@@ -3,7 +3,7 @@ import React from 'react'
 const Data = () => {
   return (
     <div className="home-data">
-      <h1 className="home-title">Trev Brown
+      <h1 className="home-title">Ko Khant
       <svg className='home-hand'
                   width="36"
                   height="36"
